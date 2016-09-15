@@ -1,0 +1,9 @@
+User-agent: google
+Allow: /
+
+User-agent: ia_archiver
+Allow: /
+
+User-agent: *
+Disallow: /
+
